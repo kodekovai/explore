@@ -1,0 +1,53 @@
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+  background: #eee;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  background-color: #f5f5f5;
+  padding-top: 25px;
+}
+/* Sticky footer styles
+-------------------------------------------------- */
+.page-content{
+  margin-top: 100px;
+}
+a:hover{
+  text-decoration: none;
+}
+.startup-block{
+  background: #fff;
+  border-radius: 5px;
+  box-shadow: 1px 1px 1px #ddd;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #ddd;
+}
+.startup-block:hover{
+  box-shadow: 2px 2px 1px #ccc;
+  border: 1px solid #ddd;
+}
+.startup-logo{
+  text-align: center;
+}
+.startup-logo img{
+  max-width: 100%;
+  max-height: 100px;
+}
+.startup-name{
+  font-size: 16px;
+  font-weight: bold;
+  margin-top: 10px;
+  color: #333;
+}
