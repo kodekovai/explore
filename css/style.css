@@ -43,11 +43,14 @@ a:hover{
 }
 .startup-logo img{
   max-width: 100%;
-  max-height: 100px;
+  max-height: 200px;
 }
 .startup-name{
-  font-size: 16px;
+  font-size: 14px;
   font-weight: bold;
-  margin-top: 10px;
+  margin-top: 15px;
   color: #333;
+}
+.startup-founded{
+  color: #777;margin-top: 5px;
 }

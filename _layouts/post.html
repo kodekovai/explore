@@ -1,15 +1,27 @@
 ---
 layout: default
 ---
+<div class='container'>
+<div class='row'>
+  <div class='col-md-2'>
+  <div class='startup-block'>
+        <div class='startup-logo'><img src="{{ page.logo }}"></div>
+        <div class='startup-name'>{{ page.title }}</div>
+        <div class='startup-founded'>Founded: {{ page.founded }}</div>
+      </div>
+  </div>
+  <div class='col-md-10'>
+  <div class='startup-block'>
 <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+    <h3 class="post-title">{{ page.title }}</h3>
   </header>
-
   <article class="post-content">
-    { { content } }
+    {{ content }}
   </article>
-
+</div>
+</div>
+</div>
+</div>
 </div>
