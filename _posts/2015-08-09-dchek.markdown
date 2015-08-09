@@ -16,4 +16,6 @@ biz: [service, mobile app]
 tags: [startup, healthcare, technology, internet, mobile app]
 adminnotes: ""
 ---
-DoPartTime.com is an online portal that facilitates hiring and finding of part-time jobs. We are a marketplace where one can list your openings which are micro, contract, temporary, part-time and one time tasks.
+Sano Technologies is committed to creating products and services to unlock the potential of digital health care, for today and future generations.  We are a team of product designers and technologists with a shared passion for health care.  Our board of advisors includes clinicians and geneticists guiding us with expert knowledge.
+
+Our mission is to solve one of the most pressing issues in health care: the need for a centralized digital record of an individual's health data.  We envision that technology can address this problem when deployed correctly.  With the Internet and the cell phone becoming ubiquitous, there is no limit to how technology can positively impact public health.
