@@ -1,0 +1,21 @@
+---
+layout: post
+title: "dChek"
+date: 2015-08-09 01:32:03
+url: http://sano-tech.com/
+logo: https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xap1/v/t1.0-1/c76.0.160.160/p160x160/11659226_627377320732808_4208567706763604201_n.jpg?oh=99405541ff94059fd536dcb279b47201&oe=568134AC&__gda__=1448212668_eb5e7655ec30fcd28ec7ecad09ff0113
+companyname: "Sano Technologies LLP"
+founded: March, 2014
+email: contact[at]sano-tech[dot]com
+contact: 
+fb: https://www.facebook.com/sanotechnologies
+twitter: 
+linkedin: 
+gmap:
+biz: [service, mobile app]
+tags: [startup, healthcare, technology, internet, mobile app]
+adminnotes: ""
+---
+Sano Technologies is committed to creating products and services to unlock the potential of digital health care, for today and future generations.  We are a team of product designers and technologists with a shared passion for health care.  Our board of advisors includes clinicians and geneticists guiding us with expert knowledge.
+
+Our mission is to solve one of the most pressing issues in health care: the need for a centralized digital record of an individual's health data.  We envision that technology can address this problem when deployed correctly.  With the Internet and the cell phone becoming ubiquitous, there is no limit to how technology can positively impact public health.
