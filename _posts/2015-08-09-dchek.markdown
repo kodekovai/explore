@@ -3,7 +3,7 @@ layout: post
 title: "dChek"
 date: 2015-08-09 01:32:03
 url: http://sano-tech.com/
-logo: https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xap1/v/t1.0-1/c76.0.160.160/p160x160/11659226_627377320732808_4208567706763604201_n.jpg?oh=99405541ff94059fd536dcb279b47201&oe=568134AC&__gda__=1448212668_eb5e7655ec30fcd28ec7ecad09ff0113
+logo: http://i.imgur.com/HZ5qVIn.png?1
 companyname: "Sano Technologies LLP"
 founded: March, 2014
 email: contact[at]sano-tech[dot]com

@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="container main-container">
-  <h1 class='page-title'>All Startups in Coimbatore</h1>
+  <h1 class='page-title'>Startups in Coimbatore</h1>
   <div class='row'>
   <div class='col-md-3'>
   <ul class="nonav nonav-pills nonav-stacked side-nav">
@@ -24,9 +24,11 @@ layout: default
         {% if post.logo %}
         <div class='startup-logo'><img src="{{ post.logo }}"></div>
         {% endif %}
-        <div class='startup-name'>{{ post.title }}</div>
+        <div class='startup-name startup-list-name'>{{ post.title }}</div>
         {% if post.founded %}
         <div class='startup-founded'>Founded: {{ post.founded }}</div>
+        {% else %}
+        <div class='startup-founded'>&nbsp;</div>
         {% endif %}
         </a>
       </div>
