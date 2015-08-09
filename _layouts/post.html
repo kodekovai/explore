@@ -3,25 +3,74 @@ layout: default
 ---
 <div class='container'>
 <div class='row'>
-  <div class='col-md-2'>
+  <div class='col-md-3'>
   <div class='startup-block'>
+        {% if page.logo %}
         <div class='startup-logo'><img src="{{ page.logo }}"></div>
+        {% endif %}
         <div class='startup-name'>{{ page.title }}</div>
+        {% if page.founded %}
         <div class='startup-founded'>Founded: {{ page.founded }}</div>
+        {% endif %}
+        {% if page.website %}
+        <div class='startup-website'><a href="{{ page.website }}" target="_blank">{{ page.website }}</a></div>
+        {% endif %}
+        {% if page.twitter||page.facebook||page.linkedin %}
+        <div class='startup-social'>
+          <a href="{{ page.twitter }}" target="_blank"><i class='fa fa-twitter'></i></a>
+          <a href="{{ page.facebook }}" target="_blank"><i class='fa fa-facebook'></i></a>
+          <a href="{{ page.linkedin }}" target="_blank"><i class='fa fa-linkedin'></i></a>
+        </div>
+        {% endif %}
+        {% if page.phone||page.email||page.address %}
+        <div class='startup-address'>
+          Contact:<br>
+          {{ page.phone }}<br>
+          {{ page.email }}<br>
+          {{ page.address }}
+        </div>
+        {% endif %}
       </div>
   </div>
-  <div class='col-md-10'>
-  <div class='startup-block'>
+  <div class='col-md-9'>
 <div class="post">
-
-  <header class="post-header">
-    <h3 class="post-title">{{ page.title }}</h3>
-  </header>
-  <article class="post-content">
+  <div class='page-block'>
+  <h1 class="post-title">{{ page.title }}</h1>
+  {% if page.companyname %}
+  <h3 class='sub-title'>{{ page.companyname }}</h3>
+  {% endif %}
+  {% if page.tags %}
+  <div class='startup-tag-pills'>
+    {% for tag in page.tags %}<span class='startup-tag-pill'>{{ tag }}</span>{% endfor %}
+  </div>
+  {% endif %}
+  {% if page.elevatorpitch %}
+  <div>{{ page.elevatorpitch }}</div>
+  {% endif %}
+</div>
+</div>
+<div class='page-block'>
+<h3 class='sub-title'>About</h3>
+<article class="post-content">
     {{ content }}
-  </article>
-</div>
-</div>
+  </article><br/><br/>
+  <div class='row'>
+    <div class='col-md-6'>
+      {% if page.youtubeid %}
+      <iframe id="ytplayer" type="text/html" width="400" height="225" style="max-width:100%;" 
+  src="http://www.youtube.com/embed/{{ page.youtubeid }}"
+  frameborder="0"></iframe>
+    {% endif %}
+    </div>
+    <div class='col-md-6'>
+    {% if page.latlng %}
+    <a href="https://maps.google.com/?q={{ page.latlng }}">
+    <img style="max-width:100%;" src="http://maps.googleapis.com/maps/api/staticmap?center={{ page.latlng }}&zoom=13&size=400x240&maptype=roadmap&markers=color:red%7Clabel:C%7C{{ page.latlng }}&sensor=false"/>
+    </a>
+    {% endif %}
+    </div>
+  </div>
+  </div>
 </div>
 </div>
 </div>

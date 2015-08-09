@@ -21,7 +21,7 @@ body {
 /* Sticky footer styles
 -------------------------------------------------- */
 .page-content{
-  margin-top: 100px;
+  margin-top: 80px;
 }
 a:hover{
   text-decoration: none;
@@ -34,7 +34,15 @@ a:hover{
   margin-bottom: 20px;
   border: 1px solid #ddd;
 }
-.startup-block:hover{
+.page-block{
+  background: #fff;
+  border-radius: 5px;
+  box-shadow: 1px 1px 1px #ddd;
+  padding: 30px;
+  margin-bottom: 20px;
+  border: 1px solid #ddd;
+}
+.page-block:hover,.startup-block:hover{
   box-shadow: 2px 2px 1px #ccc;
   border: 1px solid #ddd;
 }
@@ -43,7 +51,7 @@ a:hover{
 }
 .startup-logo img{
   max-width: 100%;
-  max-height: 200px;
+  max-height: 250px;
 }
 .startup-name{
   font-size: 14px;
@@ -52,13 +60,21 @@ a:hover{
   color: #333;
 }
 .startup-founded{
-  color: #777;margin-top: 5px;
+  color: #777;font-size: 12px;
+}
+.startup-founded,.startup-website,.startup-social{
+  margin-top: 5px;
+}
+.startup-address{
+  margin-top: 15px;
+  font-size: 12px;line-height: 20px;
 }
 ul.side-nav,.side-nav li{
   list-style: none;margin: 0;padding: 0;
 }
-.side-nav{
+ul.side-nav{
   border: 1px solid #ccc;background: #fff;
+  margin-bottom: 30px;
 }
 .side-nav li.heading{
   padding: 10px;background: #f7f7f7;
@@ -98,4 +114,43 @@ ul.side-nav,.side-nav li{
 }
 .side-nav li:hover{
   background: #ddd;cursor: pointer;
+}
+.page-title{
+  margin: 0;padding: 0;
+  margin-bottom: 30px;
+  font-size: 24px;
+}
+.post-title{
+  font-size: 20px;
+  margin: 0;padding: 0;
+  margin-bottom: 10px;
+}
+.sub-title{
+  font-size: 16px;margin: 0;padding: 0;margin-bottom: 20px;
+}
+.startup-social a{
+  margin-right: 10px;
+}
+.startup-tag-pills{
+margin-bottom: 20px;
+}
+.startup-tag-pill{
+  padding: 4px 8px;border-radius: 10px;background: #f3f3f3;
+  border: 1px solid #eee;font-size: 12px;margin-right: 10px;margin-bottom: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 480px){
+  .col-startup-block{
+    width: 100%;
+  }
 }
