@@ -5,11 +5,12 @@ layout: default
 <div class="container main-container">
   <div class='row'>
   <div class='col-md-3'>
-  <ul class="nav nav-pills nav-stacked">
-    <li role="presentation" class="active filter filter-startup"><a onclick="filterStartup('startup')">All Startups</a></li>
-    <li role="presentation" class="filter filter-technology"><a onclick="filterStartup('technology')">Technology</a></li>
-    <li role="presentation" class="filter filter-healthcare"><a onclick="filterStartup('healthcare')">Healthcare</a></li>
-    <li role="presentation" class="filter filter-recruitement"><a onclick="filterStartup('recruitement')">Recruitement</a></li>
+  <ul class="nonav nonav-pills nonav-stacked side-nav">
+    <!-- <li role="presentation" class="heading">Categories</li> -->
+    <li role="presentation" class="border-left-grey active filter filter-startup" onclick="filterStartup('startup')">All Startups</li>
+    <li role="presentation" class="border-left-blue filter filter-technology" onclick="filterStartup('technology')">Technology</li>
+    <li role="presentation" class="border-left-red filter filter-healthcare" onclick="filterStartup('healthcare')">Healthcare</li>
+    <li role="presentation" class="border-left-green filter filter-recruitement" onclick="filterStartup('recruitement')">Recruitement</li>
   </ul>
   </div>
   <div class='col-md-9'>
