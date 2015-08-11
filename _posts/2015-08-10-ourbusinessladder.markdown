@@ -1,18 +1,15 @@
 ---
 layout: post
-title: "Untumble"
+title: "Our Business Ladder"
 date: 2015-08-09 01:32:03
 website: http://www.ourbusinessladder.com
-logo:https://www.facebook.com/ourbusinessladder/photos/a.659215820815758.1073741825.659214347482572/856805097723495/?type=1&theater
-companyname: "BCT Management Services (OPC) PVT Ltd"
+logo: http://www.ourbusinessladder.com/img/obl_logo2.png
+companyname: "BCT Management Services (OPC) Pvt Ltd"
 founded: 2014
 email: thiru[at]ourbusinessladder[dot]com
 phone: 9487178877
-facebookhttps://www.facebook.com/ourbusinessladder
-twitter:
-linkedin:
-latlng: 
-youtubeid:ekE3uzU137c
+facebook: https://www.facebook.com/ourbusinessladder
+youtubeid: ekE3uzU137c
 elevatorpitch: An one stop Entrepreneur Guidance company trying to create lots and lots of successful and Quality entrepreneurs every year by guiding them in right direction. Our main focus is on Market research , Business Plan , Business Consulting , Business Health Check up etc.
 biz: [Business]
 tags: [Entrepreneurship,Startup,consulting,Business Consulting ]

@@ -15,13 +15,17 @@ layout: default
         {% if page.website %}
         <div class='startup-website'><a href="{{ page.website }}" target="_blank">{{ page.website }}</a></div>
         {% endif %}
-        {% if page.twitter||page.facebook||page.linkedin %}
         <div class='startup-social'>
+	{% if page.twitter %}
           <a href="{{ page.twitter }}" target="_blank"><i class='fa fa-twitter'></i></a>
+	{% endif %}
+	{% if page.facebook %}
           <a href="{{ page.facebook }}" target="_blank"><i class='fa fa-facebook'></i></a>
+	{% endif %}
+	{% if page.linkedin %}
           <a href="{{ page.linkedin }}" target="_blank"><i class='fa fa-linkedin'></i></a>
+	{% endif %}
         </div>
-        {% endif %}
         {% if page.phone||page.email||page.address %}
         <div class='startup-address'>
           Contact:<br>

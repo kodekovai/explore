@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Arivanza"
+date: 2015-08-11 12:13:00
+website: www.arivanza.com
+logo: http://conocimiento.arivanza.com/wp-content/uploads/2015/03/Logo-blue.png
+companyname: "LinkedTeams India Software Pvt. Ltd."
+founded: 2013
+email: info@arivanza.com
+phone: +91 90039 26309
+facebook: https://www.facebook.com/arivanzatech
+youtubeid: "pXwdlGA6eV4"
+elevatorpitch: Arivanza helps trainers / tutors to create UI rich courses online
+biz: [e-Learning,internet]
+tags: [SaaS, Cloud, recruitement, technology, internet]
+adminnotes: ""
+address: "FORGE Factory, KCT Techpark,<br/>Coimbatore,<br/>Tamil Nadu, India."
+---
+Arivanza helps trainers / tutors to create UI rich courses online without having to worry about the design and other technical stuff. It enables the end user to just focus on their content and create beautiful courses and publish it to any standard LMS platforms.
