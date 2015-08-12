@@ -48,6 +48,7 @@ a:hover{
 }
 .startup-logo{
   text-align: center;
+  min-height:167px;
 }
 .startup-logo img{
   max-width: 100%;
