@@ -3,7 +3,7 @@ layout: post
 title: "Orderfood.co.in"
 date: 2015-08-09 01:32:03
 website: http://www.orderfood.co.in/
-logo: www.orderfood.co.in/images/orderfood1.jpg
+logo: http://www.orderfood.co.in/images/orderfood1.jpg
 companyname: "Richtec Solution India PVT LTD"
 founded: 2014
 email: chak.s.kumar@gmail.com
@@ -12,10 +12,9 @@ facebook: https://www.facebook.com/orderyourfood
 twitter: 
 linkedin: 
 latlng: "11.0128934,76.9555928"
-youtubeid: "MiNDDowQ8bo"
 elevatorpitch: Online takeaway integrated with delivery network.
 biz: [Online takeaway,internet]
-tags: [startup, recruitement, technology, internet]
+tags: [startup, foodtech, technology, internet]
 adminnotes: ""
 address: "Srivari Kikhani Centre, <br />Krishnaswamy Road, R.S.Puram, <br />Coimbatore - 641002"
 ---
