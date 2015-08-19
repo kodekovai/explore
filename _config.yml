@@ -1,8 +1,7 @@
 # Site settings
 title: Coimbatore Startups Community Curation
 email: info@coimbatorestartups.com
-description: > # this means to ignore newlines until "baseurl:"
-Coimbatore Startups list curated by commmunity members | #KodeKovai | cbestartups | builtinkovai 
+description: Coimbatore Startups list curated by commmunity members | #KodeKovai | cbestartups | builtinkovai 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://explore.coimbatorestartups.com" # the base hostname & protocol for your site
 permalink: /startup/:title
