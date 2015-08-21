@@ -8,7 +8,7 @@ companyname: "Rapidfab 3D"
 founded: 2014
 email: rapo3d@gmail.com
 phone: +91.9944150316
-facebook: www.facebook.com/rapo3d
+facebook: http://www.facebook.com/rapo3d
 latlng: "12.9653652,80.24610570000004"
 elevatorpitch: We provide rapid prototyping services to our customers using 3d printers(FFM technology)
 biz: [service, prototyping]
