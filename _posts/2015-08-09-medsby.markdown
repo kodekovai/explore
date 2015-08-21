@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Medsby"
+date: 2015-08-09 01:32:03
+website: http://www.themedsby.com
+logo: https://m.ak.fbcdn.net/sphotos-f.ak/hphotos-ak-xpf1/t31.0-8/p843x403/10865801_1594785677411490_8272009192646078689_o.png
+companyname: "Medsby Healthcare & Engg Solutions"
+founded: 2014
+email: mail@themedsby.com
+phone: +91.80158.61849
+facebook: http://facebook.com/medsby
+youtubeid: "WcNTP6UiuEg"
+elevatorpitch: Medsby is an emerging technology company which is dedicated to the enhancement of people’s lives through wearable technology, user friendly ambulatory medical and fitness devices, mobile and computer applications.
+biz: [service, Healthcare, Technology, Wearable Technology, Android Apps, Biomedical Sales & Services]
+tags: [startup, Biomedical ,Service, Technology, wearable, patient monitoring, android app development,SmartScope,pulse kit 2,ECG simulator pro,Medsby,Medical accessories,medical equipments, medical services,3d printed prosthetics, 3d printing, medsby prusa i3, educational kits,biomedical kits, ECG kit,]
+adminnotes: ""
+address: "#37,3rd street (extn), <br/> Gandhipuram, <br/> Coimbatore - 641012."
+---
+Medsby is an emerging technology company which is dedicated to the enhancement of people’s lives through wearable technology, user friendly ambulatory medical and fitness devices, mobile and computer applications. The company is an innovator in wearable gadgets, fitness gadgets, cardiac care, home healthcare, bio-signal simulators, 3D printing, electronic development & testing equipment.
