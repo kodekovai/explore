@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Gyannext.com"
+date: 2015-08-24 01:32:03
+website: http://www.gyannext.com/
+logo: http://gyannext.com/images/gyannext-logo.png
+companyname: "Haritham Technologies Pvt Ltd."
+founded: 2015
+email: info[at]gyannext[dot]com
+elevatorpitch: Gyannext is a portal focussing on the education sector with ala carte of services for students and institutions.
+biz: [service,internet]
+tags: [startup, education, internet]
+adminnotes: ""
+---
+Gyannext is a portal focussing on the education sector with ala carte of services for students and institutions.

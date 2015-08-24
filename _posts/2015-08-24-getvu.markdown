@@ -1,0 +1,22 @@
+---
+layout: post
+title: "GetVu"
+date: 2015-08-09 02:32:03
+website: http://www.getvu.net/
+logo: http://getvu.net/images/getvu.jpg
+companyname: "Getview Tech Labs Private Limited"
+founded: 2014
+email: contact[at]getvuar[dot]com
+phone: +91.72994.25195
+facebook: http://www.facebook.com/getvu
+linkedin: https://www.linkedin.com/company/4817939
+latlng: "12.9042085,77.6503816"
+elevatorpitch: We maximise productivity and management efficiency for the next generation warehouse through wearables
+biz: [Retail, Industry, Enterprise]
+tags: [startup, technology, Augmented Reality, Smart glass, wearables]
+adminnotes: ""
+address: "1/4 Mariamman kovil street, Linganoor, 
+vadavalli, Jothipuram, Coimbatore- 641041,<br/>Tamil Nadu, India."
+---
+GetVu's mission is to connect business critical information to the people who need it - right where they need it the most, through augmented reality and wearable technologies. 
+GetVu is dedicated to create innovation in augmented reality technology to solve real world problems.Precisely into supply chain management, We are moving forward with a mission to increase productivity and efficiency in warehouse management. 

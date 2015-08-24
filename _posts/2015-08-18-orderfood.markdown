@@ -14,7 +14,7 @@ linkedin:
 latlng: "11.0128934,76.9555928"
 elevatorpitch: Online takeaway integrated with delivery network.
 biz: [Online takeaway,internet]
-tags: [startup, foodtech, technology, internet]
+tags: [startup, ecommerce, foodtech, technology, internet]
 adminnotes: ""
 address: "Srivari Kikhani Centre, <br />Krishnaswamy Road, R.S.Puram, <br />Coimbatore - 641002"
 ---

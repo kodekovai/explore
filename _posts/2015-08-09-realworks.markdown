@@ -15,7 +15,7 @@ latlng: "11.0252554,76.9025901"
 youtubeid: "Ni3rkBYHulU"
 elevatorpitch: Realworks Studios is a 3D Visualization & Animation studio for 3D Visualization, Computer Generated Imagery(CGI) using open source tools and technology.
 biz: [service,Media & Entertainment, Visualisation, Computer Generated Imagery (CGI)]
-tags: [startup, Architectural Visualisation, 3D Animation, Computer Graphics, Open Source]
+tags: [startup, Architectural Visualisation, 3D Animation, Computer Graphics, Open Sourcem, digitalmedia]
 adminnotes: ""
 address: "7/1, VSK building, </br>Thondamuthur Road, Vadavalli,</br> Coimbatore 641041.
 </br>Landline : +91 422 6475553

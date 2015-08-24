@@ -12,7 +12,7 @@ facebook: https://www.facebook.com/ourbusinessladder
 youtubeid: ekE3uzU137c
 elevatorpitch: An one stop Entrepreneur Guidance company trying to create lots and lots of successful and Quality entrepreneurs every year by guiding them in right direction. Our main focus is on Market research , Business Plan , Business Consulting , Business Health Check up etc.
 biz: [Business]
-tags: [Entrepreneurship,Startup,consulting,Business Consulting ]
+tags: [startup, Entrepreneurship, consulting, Business Consulting ]
 adminnotes: ""
 address: " 152 , Narayana Guru Road, ,<br/> Saibaba Colony, <br/> Coimbatore,Tamil Nadu, India."
 ---

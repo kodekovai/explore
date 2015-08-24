@@ -12,7 +12,7 @@ facebook: https://www.facebook.com/arivanzatech
 youtubeid: "pXwdlGA6eV4"
 elevatorpitch: Arivanza helps trainers / tutors to create UI rich courses online
 biz: [e-Learning,internet]
-tags: [SaaS, Cloud, recruitement, technology, internet]
+tags: [startup, SaaS, Cloud, recruitement, technology, internet]
 adminnotes: ""
 address: "FORGE Factory, KCT Techpark,<br/>Coimbatore,<br/>Tamil Nadu, India."
 ---

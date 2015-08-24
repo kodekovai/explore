@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Skyware"
+date: 2015-08-09 03:32:03
+website: http://www.skyware.io/
+logo: http://www.skyware.io/img/logo.png
+founded: 2015
+email: madz[at]skyware[dot]io
+phone: +91.98944.53555
+elevatorpitch: Uber for drones
+biz: [UAS and UAV systems]
+tags: [startup ,technology, Cloud,  precision agriculture, remote sensing,  aerial imagery, uav, drones,  3d mapping]
+adminnotes: ""
+address: "Coimbatore,<br/>Tamil Nadu, India."
+---
+Skyware is an early stage startup that builds low cost user obsessed smarter UAV systems with focus on making real world data available in real time to those in need and as many times needed.
+Buy Skyware drones or collect data on demand via our partner pilots certified by the skyware wingman program.
+Imagine the impact you could make in your business practices if you had access to valuable data that could aid in smarter decision making. What if you had realtime proactive information about the health of your crops, with ability to understand their stress differentiation, manage field irrigation system better and repeat surveys on your land as frequently you wanted yet not burn a hole in your pocket?

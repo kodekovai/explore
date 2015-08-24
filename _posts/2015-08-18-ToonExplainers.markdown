@@ -14,7 +14,7 @@ phone: +91 8220000769
 youtubeid: "P8xCagY6Cgk"
 elevatorpitch: We create engaging explainer videos.
 biz: [service,internet]
-tags: [startup, animation, videos, technology, internet]
+tags: [startup, digitalmedia, animation, videos, technology, internet]
 adminnotes: ""
 address: "95 C, Maniam Kaliappa Street, Saibabacolony,<br />Coimbatore, Tamilnadu - 641038, India."
 ---

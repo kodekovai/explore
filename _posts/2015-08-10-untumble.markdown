@@ -12,7 +12,7 @@ facebook: https://www.facebook.com/Untumble
 twitter: http://www.twitter.com/untumble
 elevatorpitch: Untumble is a design studio focused on conceptualising and manufacturing theme based party supplies. we have in our portfolio more than 1500 unique products and supplied to 1000+ parties.
 biz: [Entertainment]
-tags: [Ecommerce, Party supplies, birthdays, baby showers, photo props ]
+tags: [startup, ecommerce, Party supplies, birthdays, baby showers, photo props ]
 adminnotes: ""
 address: " No 63, Big bell complex ,<br/> Big bell Complex,RS Puram, <br/> CoimbatoreTamil Nadu, India."
 ---
