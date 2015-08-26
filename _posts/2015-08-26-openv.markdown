@@ -1,0 +1,22 @@
+---
+layout: post
+title: "OPEN-V"
+date: 2015-08-26 03:32:03
+website: http://www.open-v.net
+logo: http://open-v.net/images/openv/logo.jpg
+companyname: "OPEN-V"
+founded: 2009
+email: hello[at]open-v[dot]net
+phone: +91.422.2511515
+facebook: https://www.facebook.com/openvinc
+linkedin: https://www.linkedin.com/company/open-v
+latlng: "11.0388241,77.0189926"
+elevatorpitch: We believe in changing the dynamics of Infrastructure Computing. Our Time and Energy is Focused on Creating the Best Infrastructure Compute Experience available in the World.
+biz: [Enterprise Datacenter]
+tags: [startup, technology,Software Defined Datacenters, Application Defined Cloud Management ]
+adminnotes: ""
+address: "1,Guruswamynagar, Thaneerpandal 1st Cross,<br/> Peelamedu, Coimbatore- 641004,<br/>Tamil Nadu, India."
+---
+OPEN-V is a high performance cloud technology engineering company founded in the heart of Coimbatore - India in the dusk of 2009 and extended it's presence to Los Angeles - USA from 2013.
+
+We are super focused on creating the best Turnkey vendor neutral Web-scale converged infrastructure stack with high performance orchestration and automation that enables agile Enterprises to deploy scalable, secure, production-ready private and public cloud environments in a plug n play hardware appliance.

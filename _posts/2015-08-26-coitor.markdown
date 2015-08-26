@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Virtual dressing room"
+date: 2015-08-09 01:32:03
+website: http://www.coitor.com/
+logo: http://www.coitor.com/images/logo.png
+companyname: "Coitor IT Tech"
+founded: 2013
+email: info[at]coitor[dot]com
+phone: +91.99947.22006
+facebook: https://www.facebook.com/pages/Coitor-IT-Tech/497437183647417
+twitter: http://www.twitter.com/Coitorittech
+linkedin: https://www.linkedin.com/company/coitor-it-tech
+youtubeid: "BD4TCfECxsU"
+elevatorpitch: Our solution will allow customers to trial products virtually to see how they look in it from mobile, desktop and in-store. 
+biz: [Retail,Augment Reality]
+tags: [startup, retail, technology, internet, augment reality]
+adminnotes: ""
+address: "306-B 3rd floor PSG STEP Software Park 2,<br/> Peelamedu, Coimbatore- 641004,<br/>Tamil Nadu, India."
+---
+We work in augmented reality domain creating 2D and 3D virtual dressing/trial rooms. 

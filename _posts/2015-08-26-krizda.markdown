@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Augrav.com"
+date: 2015-08-26 05:32:03
+website: http://augrav.com/
+logo: http://cdn.augrav.com/online/jewels/2015/06/logo-170x45-nn.tiny_.png
+companyname: "Krizda India Private Limited"
+founded: 2014
+email: contact[at]augrav[dot]com
+phone: +91.98940.35834
+facebook: http://www.facebook.com/augrav
+elevatorpitch: Augrav is a platform that connects jewelry designers & manufacturers to the appropriate retailers and customers. 
+biz: [jwellery,internet]
+tags: [startup,marketplace , ecommerce, technology, internet]
+adminnotes: ""
+address: "Coimbatore,<br/>Tamil Nadu, India."
+---
+Coimbatore alone has 3000 precious jewelry manufacturers.  India in total has 2.5 million jewelry retailers.  And, jewelry industry is growing at a very rapid pace, estimated to be about $90 billion in 2018.
+
+We solve the distribution of jewels using technology. 
+
+Augrav is founded by Vivek Krishna, a proud Coimbatorean, with rich and diverse experience working at research labs(IU Cyclotron) and a big data startup in New York(General Sentiment).

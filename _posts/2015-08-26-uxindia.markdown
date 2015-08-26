@@ -1,0 +1,23 @@
+---
+layout: post
+title: "UXIndia"
+date: 2015-08-26 06:32:03
+website: http://www.uxindia.com/
+logo: http://www.uxindia.com/sites/all/themes/bootstrap/bootstrap_ux/images/logo.png
+companyname: "UXIndia Studios Pvt Ltd"
+founded: 2012
+email: mail[at]uxindia[dot]com
+phone: +91.90035.78010
+facebook: http://www.facebook.com/uxindia
+twitter: http://www.twitter.com/UXIndia
+linkedin: https://www.linkedin.com/company/uxindia
+elevatorpitch: UXIndia Studios  start-up company backed by a team of Usability Design experts. It is a unique web portal dedicated to Design & UX professionals. 
+biz: [service,internet]
+tags: [startup, recruitement, technology, design & UX, internet]
+adminnotes: ""
+address: "E403, OAK Canopy,
+Kallimadai Road,<br/> Singanallur, Coimbatore- 641005,<br/>Tamil Nadu, India."
+---
+UXIndia Studios is a hunger initiative by Design professionals towards world class design. We look design and user experience as an art. Over a decade in this pasture, we identified the hurdles while firms recruiting the endowed designers. This keeps ticking us to solve the complicated issues.
+
+UXIndia Studios drives businesses forward by designing digital products & services that put people first.
