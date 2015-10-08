@@ -3,7 +3,7 @@ layout: post
 title: "Arivanza"
 date: 2015-08-11 12:13:00
 website: www.arivanza.com
-logo: http://conocimiento.arivanza.com/wp-content/uploads/2015/03/Logo-blue.png
+logo: http://arivanza.com/wp-content/uploads/2015/03/Logo-blue.png
 companyname: "LinkedTeams India Software Pvt. Ltd."
 founded: 2013
 email: info@arivanza.com
