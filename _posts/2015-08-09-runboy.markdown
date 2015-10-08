@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Runboy"
+date: 2015-08-09 01:32:03
+website: https://www.runboy.in
+logo: https://www.runboy.in/themes/green/images/logo.png
+companyname: "Runboy Technologies Pvt Ltd"
+founded: 2015
+email: support[at]doparttime[dot]com
+facebook: https://www.facebook.com/runboy.in
+twitter: https://twitter.com/runboyin
+linkedin: https://in.linkedin.com/in/runboyindia
+elevatorpitch: Runboy is a platform to provide needs & wants on day to day life. 
+biz: [service,internet,B2C,hyper local]
+tags: [startup, hyper local, technology, internet, mobile, app, android]
+adminnotes: ""
+---
+Runboy is your neighbour with skilled abilities to fulfill your needs on time.
