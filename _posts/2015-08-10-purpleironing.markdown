@@ -7,15 +7,14 @@ logo: http://purpleironingservices.com/images/footer/footer_logo.png
 companyname: "Purple Ironing Services P Ltd"
 founded: 2012
 email: info@purpleironingservices.com
-phone: +91.95000.55569
+phone: +91.422.4500045
 facebook: https://www.facebook.com/purpleironingservices
 youtubeid: "fk7Au3n3ZYE"
 elevatorpitch: Purple Ironing is a common man’s attempt to get the ironing service spectrum in order.
 biz: [service,internet,B2C, laundry]
 tags: [startup, Consumer Services, technology, internet, app, android, mobile]
 adminnotes: "Vivek CM - 9962320800"
-address: "Helpline:4500045 <br/>
-Whatsapp: 8682912345 <br/>
+address: "Whatsapp: 8682912345 <br/>
 223/1,Netaji Nagar, <br/> Nanjundapuram, Coimbatore. <br/>
 Contact : Vijay @ 9894145366 or Vivek @ 9962320800"
 ---
