@@ -7,7 +7,6 @@ logo: https://www.helpr.in/images/logos/navbar-logo-new.png
 companyname: "Helpr Infotech India Private Limited"
 founded: May, 2015
 email: team@helpr.in
-phone: +91.95000.55569
 facebook: https://www.facebook.com/helprhq
 twitter: https://www.twitter.com/helprhq
 linkedin: https://www.linkedin.com/company/9552468
