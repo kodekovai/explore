@@ -2,7 +2,7 @@
 layout: post
 title: "ToonExplainers.com"
 date: 2015-08-09 01:32:03
-website: toonexplainers.com
+website: http://www.toonexplainers.com
 logo: http://www.toonexplainers.com/wp-content/uploads/2013/12/logo5.png
 facebook: https://www.facebook.com/toonexplainers
 twitter: https://twitter.com/toonexplainers
