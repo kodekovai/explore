@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Helpr"
+date: 2015-08-09 01:32:03
+website: http://www.helpr.in/
+logo: https://www.helpr.in/images/logos/navbar-logo-new.png
+companyname: "Helpr Infotech India Private Limited"
+founded: May, 2015
+email: team@helpr.in
+phone: +91.95000.55569
+facebook: https://www.facebook.com/helprhq
+twitter: https://www.twitter.com/helprhq
+linkedin: https://www.linkedin.com/company/9552468
+elevatorpitch: Helpr is one of the fastest growing on-demand home services platform in the country.
+biz: [hyperlocal,internet]
+tags: [startup, hyperlocal, technology, internet]
+adminnotes: ""
+---
+Founded by alumini of PSG Tech, Helpr is one of the fastest growing on-demand home services platform in the country<br>
+
+Helpr is the most convenient and hassle free way to get your household work done. With handcrafted mobile solutions, unmatched service quality, and background verified providers who are always willing to lend a hand, we aim to aid in solving all your household problems with efficiency, ease and most importantly, a personal touch.
