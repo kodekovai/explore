@@ -3,7 +3,7 @@ layout: post
 title: "Aurobliss"
 date: 2015-08-09 01:32:03
 website: http://www.aurobliss.com
-logo: https://scontent.fmaa1-2.fna.fbcdn.net/hphotos-xpt1/v/t1.0-9/10525360_555534347883802_3216210119683757414_n.jpg?oh=dd338ee0a94ebff9ebd182dad83d047d&oe=5671483A
+logo: http://www.cdn.aurobliss.com/skin/frontend/default/respond/images/logo_Aurobliss.png
 companyname: "Aurobliss designer Jewels Pvt Ltd"
 founded: 2014
 email: arun@aurobliss.com
