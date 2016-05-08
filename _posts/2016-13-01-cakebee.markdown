@@ -1,0 +1,19 @@
+---
+layout: post
+title: "CakeBee"
+date: 2016-13-01 14:44:07
+website: http://www.cakebee.in/
+logo: http://cdn.shopify.com/s/files/1/0797/0193/t/54/assets/logo.png?13131608681642473531
+companyname: "Cakebee.in"
+founded: November, 2015
+email: coimbatore@cakebee.in
+phone: +91-7502031113
+facebook: https://www.facebook.com/CakeBeeIN
+twitter: https://twitter.com/cakebeein
+elevatorpitch: CakeBee is an internet first cake shop that bakes fresh for every order and delivers at your door step.
+biz: [service,internet, food, hyperlocal]
+tags: [startup, internet, food tech, food delivey, cake shop]
+adminnotes: "Abishek Baskaran, Co-founder"
+address: "No. 3, Kamarajar Road 6th Cross, KK Pudur, Coimbatore 641038"
+---
+CakeBee is an internet first cake shop that bakes fresh for every order and delivers at your door step.
