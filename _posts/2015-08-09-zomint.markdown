@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Zomint"
+date: 2015-08-09 01:32:03
+website: https://www.zomint.com
+logo: https://www.zomint.com/skin/frontend/7store/default/images/new1/logo.png
+companyname: "Zomint Online LLP"
+founded: May, 2014
+email: hello@zomint.com
+phone: +91 422-4342005
+facebook: https://www.facebook.com/zomintgifts/
+twitter: https://twitter.com/zomintgifts
+linkedin: https://www.linkedin.com/company/zomint-llp
+elevatorpitch: ZOMINT.COM is an Online Jewellery Gifting Destination. Send Personalised and Customized Jewellery gifts Online to your loved ones without having last minute tension over gifts.
+biz: [service,internet,marketplace,ecommerce]
+tags: [startup, recruitement, retail, ecommerce, marketplace, jewellery]
+adminnotes: "Karthik, Operation Manager"
+address: "A - 41, West Lokmanya Street RS Puram, Coimbatore - 641 002 +91 9845557349, +91 422-4342005."
+---
+"We have unique jewellery such as 3D Gold toys, Personalised Name Pendants and Rings, FingerPrint Rings, 3D Divine Collection, Face Pendants and more. We have over 2000 unique designs for you to choose from. 
+
+Zomint Co-Founder is Prajeeth Venkatesan-A fourth generation entrepreneur, Great Grandson of M.A.Venkataraman Chettiar who founded Karur Vysya Bank in early 90’s."
